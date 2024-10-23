@@ -1,0 +1,25 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+.vscode/
+
+# SQLite database
+db.sqlite3
